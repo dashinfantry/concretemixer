@@ -1,12 +1,8 @@
 # harbour-concretemixer
-
-ConcreteMixer for Sailfish OS
-------------------------------
-date: 28.05.2019
-
-licence: MIT (open source)
-
-precompiled download here: https://openrepos.net/content/planetos/concretemixer
+## ConcreteMixer for Sailfish OS (3.x)
+*date: 28.05.2019
+*licence: MIT (open source)
+*precompiled download here: https://openrepos.net/content/planetos/concretemixer
 
 
 Description:
