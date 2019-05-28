@@ -1,4 +1,4 @@
-# concretemixer
+# harbour-concretemixer
 
 ConcreteMixer for Sailfish OS
 ------------------------------
